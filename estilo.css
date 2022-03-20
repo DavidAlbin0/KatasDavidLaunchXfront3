@@ -1,0 +1,103 @@
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+}
+
+.navbar-eti{
+    margin: auto;
+}
+
+.flex-container div{
+    width: 1000px;
+    line-height: 75px;
+    font-size: 30px;
+    row-gap: 60px;
+    text-align: justify;
+}
+
+.h1{
+    color: bisque;
+    font: caption;
+    text-align: center;
+}
+
+.tittle{
+    color: purple;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    src: url();
+    text-align: center;
+}
+
+
+
+.lil{
+    color: #384E77;
+    font-size: 60%;
+    
+}
+
+.sus{
+    color: #CAE7B9;
+}
+
+.p1{
+    color: #AF90A9;
+    font-size: 15px;
+    font-stretch: condensed;
+}
+
+.p2{
+    color: gray;
+    font-size: 15px;
+    text-align: right;
+}
+
+.p3{
+    color: lightgrey;
+    font-size: 10px;
+}
+
+.ps{
+    text-align: justify;
+}
+
+.mr{
+    margin-left: 95px;
+}
+
+.lilu{
+    color: black;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+.button {
+    background-color: lightskyblue; /* Green */
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1.5px solid #9fa0a2 ;
+    width: 130px;
+    size: 10px;
+  }
+
+    .divs {
+      border-radius: 25px;
+      border: 1.5px solid ;
+      float: center;
+      width: 40%;
+    }
+
+.flex-containeres{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.baca{
+    background-color: #384E77;
+}
